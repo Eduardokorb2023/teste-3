@@ -1,0 +1,125 @@
+.im1{
+    margin: auto;
+    display: block;
+width: 41%;
+background-color: rgb(150, 231, 95);
+}
+
+.horta{background-color: rgb(150, 231, 95);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    font-size: 150%;
+}
+
+.edu{
+    font-size: 150%;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+
+.Eduardo{
+    font-size: 300%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+/*layout fluido*/
+
+
+.e{
+    color: rgb(0, 0, 0);
+background-color:rgb(70, 70, 70);
+
+}
+.di{
+    text-align: left;
+}
+@media (max-width:500000000000px) { 
+    .im1{
+        margin: auto;
+        display: block;
+    width: 41%;
+    background-color: rgb(150, 231, 95);
+    }
+    
+    .horta{background-color: rgb(150, 231, 95);
+        color: rgb(0, 0, 0);
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+        align-items: center;
+        font-size: 150%;
+    }
+    
+    .edu{
+        font-size: 150%;
+        color: rgb(0, 0, 0);
+        text-align: left;
+    }
+    
+    
+    .Eduardo{
+        font-size: 300%;
+        color: rgb(0, 0, 0);
+        text-align: center;
+    }
+    
+    /*layout fluido*/
+    
+    
+    .e{
+        color: rgb(0, 0, 0);
+    background-color:rgb(70, 70, 70);
+    
+    }
+    .di{
+        text-align: left;
+    }
+}
+
+@media (min-width:1px)(max-width:500000000000000000000000) {
+    .im1{
+        margin: auto;
+        display: block;
+    width: 41%;
+    background-color: rgb(150, 231, 95);
+    }
+    
+    .horta{background-color: rgb(150, 231, 95);
+        color: rgb(0, 0, 0);
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+        align-items: center;
+        font-size: 150%;
+    }
+    
+    .edu{
+        font-size: 150%;
+        color: rgb(0, 0, 0);
+        text-align: left;
+    }
+    
+    
+    .Eduardo{
+        font-size: 300%;
+        color: rgb(0, 0, 0);
+        text-align: center;
+    }
+    
+    /*layout fluido*/
+    
+    
+    .e{
+        color: rgb(0, 0, 0);
+    background-color:rgb(70, 70, 70);
+    
+    }
+    .di{
+        text-align: left;
+    }
+}
